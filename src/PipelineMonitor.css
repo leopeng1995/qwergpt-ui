@@ -1,0 +1,35 @@
+.pipeline-monitor {
+    padding: 20px;
+    margin: 20px;
+}
+
+.status-section {
+    margin-bottom: 20px;
+    display: flex;
+    gap: 16px;
+    align-items: center;
+}
+
+.component-item {
+    margin-bottom: 16px;
+    margin: 10px 0;
+}
+
+.component-item h4 {
+    margin: 0 0 8px 0;
+}
+
+.status-section span {
+    margin-left: 10px;
+}
+
+.component-data {
+    margin: 8px 0;
+    padding: 8px;
+    background: #f5f5f5;
+    border-radius: 4px;
+}
+
+.data-item {
+    margin: 4px 0;
+}
